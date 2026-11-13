@@ -1,0 +1,14 @@
+=== Question 1 : Comment Alice peut-elle transmettre la clé à Bob sans qu’un espion l’intercepte ? Discutez : e-mail ? téléphone ? Ce problème sera résolu à la séance Diffie-Hellman.
+
+ils peuvent directement se transmettre entre eux en discutent.
+
+=== Question 2 : Quelle(s) propriété(s) DICP sont assurées ici ?
+
+La confidentialité et l'intégrité du message sont assurées (grâce au chiffrement du fichier).
+
+=== Question 3 : Qu'arrive-t-il si la clé est interceptée ?
+
+la clé secrète est interceptée lors de sa transmission non sécurisée, la confidentialité est compromise.
+
+
+
